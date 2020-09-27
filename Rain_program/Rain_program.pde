@@ -1,4 +1,3 @@
-int l = 0;
 int x = 500;
 int y = 0;
 void setup(){
